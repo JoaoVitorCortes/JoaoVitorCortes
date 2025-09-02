@@ -3,8 +3,9 @@
 <p  align="center">Seja bem vindo ao meu perfil!</p>
 <hr>
 <br> 
+![Untitled design]()
 
-<img src="[https://github.com/user-attachments/assets/8e4e1a2b-d994-44c5-8ca7-a9c060b8b299](https://github.com/user-attachments/assets/e24c2e39-d9f1-4da2-afd4-42c9f36d6733)" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
+<img src="https://github.com/user-attachments/assets/be9b5a08-b357-4bb3-8ca0-1798db277104" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 <p align="left"> 
   Olá sou o Luan, densenvolvedor front-enb e futuro <strong>fullStack</strong>.<br>
