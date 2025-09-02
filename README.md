@@ -1,14 +1,20 @@
 ![Banner](https://github.com/user-attachments/assets/b42f5fdc-1210-4729-8ea7-26ef7d7cabd7)
 <br>
 <p  align="center">Seja bem vindo ao meu perfil!</p>
+<p  align="center">Welcome to my profile!</p>
 <hr>
 <br> 
 
 <img src="https://github.com/user-attachments/assets/be9b5a08-b357-4bb3-8ca0-1798db277104" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 <p align="left"> 
-  Olá! sou o João Vitor, densenvolvedor front-enb júnior e futuro <strong>fullStack</strong>.<br>
-    Estudante de Desenvolvimento Web e graduando em Sistemas de Informação.
+  🇧🇷 Olá!👋 Sou o João Vitor, densenvolvedor front-enb júnior e futuro <strong>fullStack</strong>.<br>
+    Estudante de Desenvolvimento Web e graduando em Sistemas de Informação. 🚀
+</p>
+
+<p align="left"> 
+  🇺🇸 Hey there! 👋 I'm João Vitor, a junior Front-end Developer and future <strong>Full-Stack</strong> wizard. <br>
+Currently diving deep into Web Development and pursuing a degree in Information Systems. 🚀
 </p>
 
 <p align="left">
@@ -27,7 +33,7 @@
 </p>
 
 <p align="left">
-  🥈 <strong>Ferramentas/outros:</strong> <br>
+  🥈 <strong>Ferramentas/Tools:</strong> <br>
     <br>
     <img height="32" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma"/>
     <img height="32" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github"/>
@@ -38,7 +44,7 @@
 </p>
 
 <p align="left">
-  🥉 <strong>Estudando:</strong> <br>
+  🥉 <strong>Estudando/Learning:</strong> <br>
     <br>
     <img height="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"/>
     <img height="32" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript"/>
@@ -59,6 +65,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5569992777062&text=Ola,%20Vitor!%20" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</p>
+
+<p align="left">
+  💌 Feel free to hit me up ⤴️
 </p>
 
 ![banner ondas](https://github.com/user-attachments/assets/48bee347-1172-4006-af27-a423c73e595a)
