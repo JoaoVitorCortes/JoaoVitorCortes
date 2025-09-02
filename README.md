@@ -7,7 +7,7 @@
 <img src="https://github.com/user-attachments/assets/be9b5a08-b357-4bb3-8ca0-1798db277104" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right"> 
 
 <p align="left"> 
-  Olá sou o João Vitor, densenvolvedor front-enb júnior e futuro <strong>fullStack</strong>.<br>
+  Olá! sou o João Vitor, densenvolvedor front-enb júnior e futuro <strong>fullStack</strong>.<br>
     Estudante de Desenvolvimento Web e graduando em Sistemas de Informação.
 </p>
 
