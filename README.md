@@ -1,4 +1,4 @@
-![Banner](<img width="1584" height="396" alt="Banner Readme" src="https://github.com/user-attachments/assets/b42f5fdc-1210-4729-8ea7-26ef7d7cabd7" />)
+![Banner](https://github.com/user-attachments/assets/b42f5fdc-1210-4729-8ea7-26ef7d7cabd7)
 <br>
 <p  align="center">Seja bem vindo ao meu perfil!</p>
 <hr>
