@@ -14,7 +14,7 @@
 
 <p align="left"> 
   🇺🇸 Hey there! 👋 I'm João Vitor, a junior Front-end Developer and future <strong>Full-Stack</strong> wizard. <br>
-Currently diving deep into Web Development and pursuing a degree in Information Systems. 🚀
+  Currently diving deep into Web Development and pursuing a degree in Information Systems. 🚀
 </p>
 
 <p align="left">
